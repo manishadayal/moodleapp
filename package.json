@@ -179,7 +179,7 @@
       "cordova-plugin-badge": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "moodlemobile"
+        "URL_SCHEME": "vidyamantra"
       },
       "cordova-plugin-device": {},
       "cordova-plugin-file": {},
